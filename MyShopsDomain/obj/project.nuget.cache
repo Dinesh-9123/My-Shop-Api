@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FmWYPKlhLA7JYG5FY0aHOA4K6glOANJjy98g4cqmh/A9zMSkVqsfBEvV0gyUGZb46o6Ub2Qw4gLhaecyVpCg0Q==",
+  "success": true,
+  "projectFilePath": "D:\\Learning Projects\\Angular Projects\\OShop\\MyShops\\MyShopsDomain\\MyShopsDomain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DineshChoudhary\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\DineshChoudhary\\.nuget\\packages\\dapper.contrib\\2.0.78\\dapper.contrib.2.0.78.nupkg.sha512"
+  ],
+  "logs": []
+}

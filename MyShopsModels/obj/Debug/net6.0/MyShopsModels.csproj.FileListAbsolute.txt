@@ -1,0 +1,12 @@
+D:\Learning Projects\Angular Projects\OShop\MyShops\MyShopsModels\bin\Debug\net6.0\MyShopsModels.deps.json
+D:\Learning Projects\Angular Projects\OShop\MyShops\MyShopsModels\bin\Debug\net6.0\MyShopsModels.dll
+D:\Learning Projects\Angular Projects\OShop\MyShops\MyShopsModels\bin\Debug\net6.0\MyShopsModels.pdb
+D:\Learning Projects\Angular Projects\OShop\MyShops\MyShopsModels\obj\Debug\net6.0\MyShopsModels.csproj.AssemblyReference.cache
+D:\Learning Projects\Angular Projects\OShop\MyShops\MyShopsModels\obj\Debug\net6.0\MyShopsModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning Projects\Angular Projects\OShop\MyShops\MyShopsModels\obj\Debug\net6.0\MyShopsModels.AssemblyInfoInputs.cache
+D:\Learning Projects\Angular Projects\OShop\MyShops\MyShopsModels\obj\Debug\net6.0\MyShopsModels.AssemblyInfo.cs
+D:\Learning Projects\Angular Projects\OShop\MyShops\MyShopsModels\obj\Debug\net6.0\MyShopsModels.csproj.CoreCompileInputs.cache
+D:\Learning Projects\Angular Projects\OShop\MyShops\MyShopsModels\obj\Debug\net6.0\MyShopsModels.dll
+D:\Learning Projects\Angular Projects\OShop\MyShops\MyShopsModels\obj\Debug\net6.0\refint\MyShopsModels.dll
+D:\Learning Projects\Angular Projects\OShop\MyShops\MyShopsModels\obj\Debug\net6.0\MyShopsModels.pdb
+D:\Learning Projects\Angular Projects\OShop\MyShops\MyShopsModels\obj\Debug\net6.0\ref\MyShopsModels.dll
